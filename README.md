@@ -2,6 +2,10 @@
 
 ---
 
+**Note: for installing erlyberly, use [Bellsoft's Liberica OpenJDK](https://bell-sw.com/pages/downloads/); JavaFX is not included in Amazon's Corretto.**
+
+---
+
 # erlyberly
 
 [![Build Status](https://travis-ci.org/andytill/erlyberly.svg?branch=master)](https://travis-ci.org/andytill/erlyberly)
